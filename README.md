@@ -15,11 +15,31 @@ Deliverable_1. Deliverable_2 contains various diagrams, some of which are outdat
 our test plan and code reviews. Deliverable_4 has some final amendments to the test plan and Acceptance Test
 validation from Deliverable_1.
 
-## Installing & Running
-    
-To install the game, simply download the .jar file from the main branch of this git repository and run it.
+# Key Features
 
-No other dependencies should be needed.
+- GoogleMaps API Integration
+- Local and Google Logins
+- Global Leaderboards
+- Round History
+- Live Multiplayer with Chat Server
+
+## Preview
+    
+Unfortunately, the GoogleMaps API is pay per use, so the program is no longer runnable. Here are some screenshots
+from our final product. (Sorry they are different sizes)
+
+
+<img width="399" alt="Menu" src="https://github.com/user-attachments/assets/7cde33d9-5c8f-4d6c-a06a-6cbf92426478" />   <br>
+
+
+<img width="532" alt="Gamplay" src="https://github.com/user-attachments/assets/f7054516-055d-4a43-b4f3-b69ea1d9d49d" />   
+
+
+<img width="553" alt="Guess-result" src="https://github.com/user-attachments/assets/05e9090c-5dc1-49d5-a833-5f40d33854f0" />   <br>
+
+
+<img width="308" alt="Leaderboard" src="https://github.com/user-attachments/assets/9ba250ca-75df-43d2-9b04-2bbe969977c5" />   
+
 
 ## Architecture
     
